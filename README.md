@@ -12,7 +12,7 @@ It reflects my foundational and practical understanding of **offensive security*
 
 ### 1️⃣ Certified Information and Offensive Security Expert (CIOSE)
 
-![CIOSE Certificate](images/CIOSE_SS.png)
+![CIOSE Certificate](/CIOSE_SS.png)
 
 **Focus Areas:**
 - Ethical Hacking Fundamentals  
@@ -27,7 +27,7 @@ This certification validates my knowledge of offensive security concepts and my 
 
 ### 2️⃣ Cyber Defence Professional (CCDP)
 
-![CCDP Certificate](images/CCDP_SS.png)
+![CCDP Certificate](/CCDP_SS.png)
 
 **Focus Areas:**
 - Cyber Defense Strategies  
